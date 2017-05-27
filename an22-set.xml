@@ -9,6 +9,22 @@
     <flight-model>yasim</flight-model>
     <aero>an22-yasim</aero>
 
+    <tags>
+      <tag>antonov</tag>
+      <tag>high-wing</tag>
+      <tag>tricycle</tag>
+      <tag>retractable-gear</tag>
+      <tag>four-engine</tag>
+      <tag>turboprop</tag>
+      <tag>variable-pitch</tag>
+      <tag>transport</tag>
+      <tag>cargo</tag>
+      <tag>ifr</tag>
+      <tag>1960s</tag>
+      <tag>1970s</tag>
+    </tags>
+
+
     <rating>
       <FDM type="int">     1 </FDM>
       <systems type="int"> 0 </systems>
